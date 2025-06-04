@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jadon</h1>
+<h1 align="center">Hi 👋/h1>
 <h3 align="center">I am a passionate high schooler planning on pursuing computer science and engineering in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmagali&label=Profile%20views&color=0e75b6&style=flat" alt="jmagali" /> </p>
