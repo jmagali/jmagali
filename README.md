@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmagali" alt="jmagali" /></a> </p>
 
-- 🌱 I’m currently learning from **Harvard CS50x**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
